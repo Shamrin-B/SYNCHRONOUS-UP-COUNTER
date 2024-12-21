@@ -70,6 +70,10 @@ endmodule
 
 ![WhatsApp Image 2024-12-17 at 11 45 33_98391a4a](https://github.com/user-attachments/assets/33b1fe8e-9ac8-4854-b9c4-cd23708c051b)
 
+**STATE TABLE**
+
+![image](https://github.com/user-attachments/assets/b377c625-3359-41b9-9ae5-bbadf5db5bd5)
+
 
 **RESULTS**
 
